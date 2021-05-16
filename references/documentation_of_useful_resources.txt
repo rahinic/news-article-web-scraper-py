@@ -1,4 +1,7 @@
 author: rahinic
-about: Google Play Store App installation history and user reviews datasets.
+about: CNN news page web crawler/scraper
 
-1. Dataset from: https://www.kaggle.com/lava18/google-play-store-apps
+1. Beautiful soup tutorial: https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/
+2. Requests tutorial: https://www.w3schools.com/python/ref_requests_response.asp
+3. Idea of the project from: https://www.codementor.io/projects/tool/web-scraper-to-get-news-article-content-atx32d46qe
+4. Crawler built based on the webpage: https://edition.cnn.com/travel/article/scenic-airport-landings-2020/index.html
