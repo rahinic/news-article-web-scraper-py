@@ -1,1 +1,3 @@
-consists of .ipynb jupyter notebook initially used to perform the analysis at hand.
+consists of .ipynb jupyter notebook initially used to perform draft crawler and a final .py file ready for execution. 
+
+Use the following execution command in the terminal: python cnn_webpage_scraper.py <example_cnn_news_url>
