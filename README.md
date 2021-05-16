@@ -1,16 +1,15 @@
-# googleplaystore_analysis
-An analysis of Google Play Store Application download history dataset
+# Web Scraper
+A simple web scraper built using python.
 
 ## 1. Dataset: 
-Taken from kaggle.com/ Refer the about.txt for information on license and Terms of Use. 
+The webpage that can be scraped using the code found in this repo is the following: https://edition.cnn.com/travel/article/scenic-airport-landings-2020/index.html 
 
 ## 2. Aim: 
-Practise Data Cleaning and Visualizaion
+Demonstrate a sample(and simple) web page crawler
 
 ## 3. Necessary Packages:
-pandas, matplotlib
+beautifulsoup, regex (re)
 
-## 4. Analysis Results:
-The images of visualisations can be found under the folder: reports/
-
+## 4. Execution:
+<TBA>
 _both .ipynb notebook and .py scripts can be found in this repository.
